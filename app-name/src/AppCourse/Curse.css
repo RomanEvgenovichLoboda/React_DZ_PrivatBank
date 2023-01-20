@@ -8,6 +8,8 @@
     background-image: url(../AppCourse/приватБанк\ Лого.png);
     background-repeat: no-repeat;
     background-size:cover;
+    display: flex;
+    flex-wrap: wrap;
     
     display: flex;
     justify-content: center;
